@@ -1,5 +1,5 @@
 # tasks
 
 <a href="#">Preview</a>
-<br/>
+<br>
 <a href="#">PullRequest</a>
